@@ -21,9 +21,11 @@ I'm the sole engineer behind it:
 ## 🛡️ Experience
 
 **Custom Workstation Engineering, agency clients**
+
 Designed and built custom work PCs for agencies. I specified and sourced components internationally, then assembled, configured and hardened each machine myself to meet the client's performance and security needs.
 
 **Cybersecurity & Software Engineering, agency work**
+
 Delivered security and engineering work for agencies, collaborating with developers from a range of industries.
 
 > 🤝 My agency work is covered by NDAs. I honour every agreement I sign, so client names and project details stay private. Trust and consistency come first.
