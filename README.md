@@ -14,7 +14,7 @@ I build secure technology from the ground up, from the hardware on the desk to t
 
 I'm the sole engineer behind it:
 
-- **Built the backend from scratch.** I didn't stitch it together from third-party plugins. I wrote the core myself, so I understand, own and control every layer.
+- **Built the workspace backend from scratch.** The CoreTide workspace that clients log into runs on a backend I wrote myself, with no third-party plugins, so I understand, own and control every layer. (The public marketing site runs on WordPress, so engineering time goes where it matters.)
 - **Security by design.** Every part of the system is built with attack surfaces, data protection and access control in mind.
 - **End-to-end ownership.** Product design, system architecture, backend engineering and front-end delivery, all handled personally.
 
@@ -22,7 +22,7 @@ I'm the sole engineer behind it:
 
 **Custom Workstation Engineering, agency clients**
 
-Designed and built custom work PCs for agencies. I specified and sourced components internationally, then assembled, configured and hardened each machine myself to meet the client's performance and security needs.
+Designed and built custom work PCs for agencies. I specified and sourced components internationally, then assembled, configured and hardened each machine myself to meet the client's performance and security needs. **Result: the client's systems stabilised and client complaints dropped by 30%.**
 
 **Cybersecurity & Software Engineering, agency work**
 
